@@ -1,5 +1,5 @@
 ---
-title: RMSE by City and Cluster 
+title: RMSE comparison between models
 author: Uriel Legaria
 format: html
 jupyter: imageable
