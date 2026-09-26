@@ -7,3 +7,6 @@ To view the notebooks click on:
 * [Clustering wheel visualization](https://scalable-design-participation-lab.github.io/Imageable-paper-notebooks/clustering_wheel.html)
 * [Height and materials visualization](https://scalable-design-participation-lab.github.io/Imageable-paper-notebooks/heights_and_materials.html)
 * [RMSE by cluster and by city](https://scalable-design-participation-lab.github.io/Imageable-paper-notebooks/rmse_bins.html)
+* [cluster-then-predict vs. other models RMSE](https://scalable-design-participation-lab.github.io/Imageable-paper-notebooks/plot_ours_vs_universal.html)
+
+
